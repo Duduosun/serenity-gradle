@@ -1,0 +1,25 @@
+[
+  {
+    "type": "Wholesale/Multi-Brand",
+    "Name": "Sales Customer ",
+    "StoreName": "Sales Customer",
+    "LocalStoreName": "123 PODIUM",
+    "StoreStatus": true,
+    "ApplyingReason": "Global",
+    "CustomerSoldTo": "Omni-channel",
+    "CurrencyISOCode": "Wstrn Eur",
+    "FloorNumber":
+    "TotalStories":
+    "GlobalStoreChannelClass":
+    "GlobalStoreDistributionTier":
+    "StoreLeadCategory":
+    "LocalCountryName":
+    "ZipCode":
+    "StreetAddress1":
+    "StreetAddress2":
+    "Building1":
+    "Building2":
+    "City1":
+    "Province1":
+  }
+]

@@ -1,0 +1,22 @@
+[
+    {
+      "type": "Sales Customer WE",
+      "CustomerName": "Sales Customer ",
+      "CustomerType": "Sales Customer",
+      "RelatedCustomerAccount": "123 PODIUM",
+      "IsUltimate": true,
+      "AccountLevel": "Global",
+      "DigitalTiering": "Omni-channel",
+      "GeoShrtNm": "Wstrn Eur"
+    },
+    {
+      "type": "Sales Customer WE",
+      "CustomerName": "Ultimate Customer ",
+      "CustomerType": "Ultimate Customer",
+      "RelatedCustomerAccount": "123 PODIUM",
+      "IsUltimate": true,
+      "AccountLevel": "Global",
+      "DigitalTiering": "Omni-channel",
+      "GeoShrtNm": "Wstrn Eur"
+    }
+]
